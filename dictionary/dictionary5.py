@@ -1,4 +1,4 @@
-# To merge two dictionary.
+# code5 : To merge two dictionary.
 a={}
 size=int(input("enter the size dict 1"))
 for i in range(size):
