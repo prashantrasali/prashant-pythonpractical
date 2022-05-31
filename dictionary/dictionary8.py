@@ -1,3 +1,4 @@
+#code 8.
 a={}
 size=int(input("enter the size"))
 for i in range(size):
